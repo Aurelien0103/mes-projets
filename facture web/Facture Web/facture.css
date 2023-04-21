@@ -1,0 +1,63 @@
+body{
+    background-color: white;
+}
+table {
+    width: 70%;
+    border-collapse: collapse;
+    background-color: whitesmoke;
+    margin-left: 220px;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+body h2{
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+
+.logo {
+    width:80px;
+    margin-bottom: 20px;
+
+}
+
+.coords {
+    margin-top: 20px;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+    margin-left: 20px;
+}
+.total {
+    float: right;
+    margin-top: 1px;
+    margin-right: 170px;
+
+}
+.facture-emise {
+    position: absolute;
+    top: 130px;
+    right: 30px;
+}
+.facture-emise p {
+    margin: 0;
+    padding: 0;
+    line-height: 1.2;
+}
+
+.logo-center {
+    height: 100px;
+    margin-left: 20px;
+}
+
+.mention{
+    text-align: center;
+    margin: 0 auto;
+    width: 50%;
+    border-bottom: 1px solid black;
+    padding-bottom: 70px;
+}
